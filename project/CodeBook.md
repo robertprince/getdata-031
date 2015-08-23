@@ -109,3 +109,5 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 3. Extract the mean and standard deviation.
 4. Process the data.
 5. Merge the data.
+6. Replace old variable names with more meaningful names.
+7. Generate tidy data.
